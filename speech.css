@@ -1,0 +1,11 @@
+#microphoneIcon{
+  height: 25px;
+  width: 25px;
+  margin-left: 135px;
+  cursor: pointer;
+}
+
+#microphoneIcon:hover{
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
